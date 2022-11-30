@@ -1,4 +1,4 @@
-# Task-7 KNN/
+# ASSIGNMENT_10 KNN TO CLASSIFY THE GLASSES
 This program performs exploratory data analysis on the dataset using Python Pandas, including dropping irrelevant fields for predicted values, and standardization of each attribute.
 
 Following data cleaning, two Scikit-Learn KNN models are created for two different distance metrics: Square Euclidean and Manhattan distance. 
